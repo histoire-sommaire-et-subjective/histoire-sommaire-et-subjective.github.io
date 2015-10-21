@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div class="home">
+	
+	<p>{{ site.description }}</p>
+	
+	
+	
+	
+
+  <h4>Articles</h4>
+
+  <ul class="post-list">
+<li class="post-date">{% for post in site.posts %}
+{{ post.date | date: '%d' }} {% assign m = post.date | date: "%-m" %} {% case m %} {% when '1' %}janvier {% when '2' %}fÃ©vrier {% when '3' %}mars {% when '4' %}avril {% when '5' %}mai {% when '6' %}juin {% when '7' %}juillet {% when '8' %}aoÃ»t {% when '9' %}septembre {% when '10' %}octobre {% when '11' %}novembre {% when '12' %}dÃ©cembre {% endcase %} {{ post.date | date: '%Y' }} {% if post.author %} â€¢ {{ post.author }}{% endif %}{% if post.meta %} â€¢ {{ post.meta }}{% endif %}
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+            {% endfor %}
+
+        </li>
+
+  </ul>
+
+
+</div>

@@ -1,0 +1,37 @@
+@import url(https://fonts.googleapis.com/css?family=Work+Sans:400,700);
+
+*{margin: 0; padding: 0;}
+
+body{max-width: 300px; margin: 20px auto; font-size: 16px; line-height: 24px; font-family: 'Work Sans', sans-serif; word-spacing: -1px;}
+a{text-decoration: none;}
+a:hover{text-decoration: underline;}
+sup{font-size: 0.6rem; line-height: 0.6rem;}
+
+h1, h2, h3, p, ul, img {margin-bottom: 10px;}
+
+h1 {font-weight: 400; font-size: 20px; line-height: 28px; color: grey; text-align: center;}
+
+.site-nav{border-bottom: 1px grey solid; border-top: 1px grey solid; padding:10px; text-align: center; margin: 20px 0;}
+
+h2 {font-weight: 400; color: grey; margin-top: 10px; font-size: 1.8rem; line-height: 2rem;}
+
+h3 {font-weight: 700; color: grey; margin-top: 10px; font-size: 60px; }
+
+h4 {border-top: 1px grey solid; color:grey; margin-top: 20px; padding-top: 10px; text-align: center;}
+
+ul li{list-style-type: none;}
+
+.post-list{margin-bottom: 0px;}
+.post-list h2{margin-top: 0px;}
+.post-date{font-size: 0.8rem; line-height: 1rem; margin-bottom: 0px;}
+
+footer{border-top: 1px grey solid; margin-top: 30px; padding-top: 10px; font-size: 0.8rem; line-height: 1rem; color:grey; }
+
+.icon svg{display: inline-block; width: 16px; height: 16px; vertical-align: middle;}
+.icon svg path{fill: black;}
+
+p.post-meta{margin-bottom: 0px; font-size: 0.8rem; line-height: 0.8rem;}
+
+
+.post h1 {font-weight: 400; font-size: 30px; line-height: 34px; color: grey; text-align: left;}
+
