@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Histoire sommaire et subjective d&#39;un monde contemporain en 300 pixels de large</title>
-    <description>Suite à une discussion avec des élèves en seconde année de mastère à l&#39;ESAG Penninghen sur le besoin de références (artistiques, musicales, littéraires, graphiques...) pour la construction d&#39;une réflexion, j&#39;entame, à leur intention, cette histoire sommaire et subjective. Ce site est amendable par tous sur github.
+    <description>Suite à une discussion avec des élèves en seconde année de mastère à l&#39;ESAG Penninghen sur le besoin de références (artistiques, musicales, littéraires, graphiques...) pour la construction d&#39;une réflexion, j&#39;entame, à leur intention, cette histoire sommaire et subjective. Ce site est amendable par tous sur GitHub.
 </description>
     <link>http://histoire-sommaire-et-subjective.github.io/</link>
     <atom:link href="http://histoire-sommaire-et-subjective.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Oct 2015 18:45:22 +0200</pubDate>
-    <lastBuildDate>Wed, 21 Oct 2015 18:45:22 +0200</lastBuildDate>
+    <pubDate>Wed, 21 Oct 2015 20:17:02 +0200</pubDate>
+    <lastBuildDate>Wed, 21 Oct 2015 20:17:02 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -48,7 +48,9 @@
         <title>1897 — Le coup de dés de Mallarmé</title>
         <description>&lt;p&gt;&lt;em&gt;&lt;a href=&quot;/fichiers/mallarme_un_coup_de_des_1897.pdf&quot;&gt;Un coup de dés jamais n’abolira le hasard&lt;/a&gt;&lt;/em&gt; est un des premiers poèmes typographiques. Paru en 1897, il est le résultat d’une approche systématique qui encore aujourd’hui interroge le projet moderne.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;&lt;a href=&quot;/fichiers/broodthaers_un_coup_de_des_1969.pdf&quot;&gt;Un coup de dés jamais n’abolira le hasard&lt;/a&gt;&lt;/em&gt; est aussi le titre d’une œuvre de Marcel Broodthaers, reproduction de l’œuvre de Mallarmé où chaque mot est soigneusement recouvert d’encre — projet iconoclaste d’une œuvre iconoclaste.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/fichiers/mallarme-coup-de-des-1897.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;/fichiers/broodthaers_un_coup_de_des_1969.pdf&quot;&gt;Un coup de dés jamais n’abolira le hasard&lt;/a&gt;&lt;/em&gt; est aussi le titre d’une œuvre de Marcel Broodthaers, reproduction de l’œuvre de Mallarmé où chaque mot est soigneusement remplacé par un rectangle noir — projet iconoclaste d’une œuvre iconoclaste.&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 Oct 2015 00:00:00 +0200</pubDate>
         <link>http://histoire-sommaire-et-subjective.github.io/article/2015/10/19/1897-le-coup-de-des-de-mallarme.html</link>

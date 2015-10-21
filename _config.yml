@@ -2,7 +2,7 @@
 title: Histoire sommaire et subjective d'un monde contemporain en 300 pixels de large
 email: pyc@lieu-subjectif.org
 description: > # this means to ignore newlines until "baseurl:"
-  Suite à une discussion avec des élèves en seconde année de mastère à l'ESAG Penninghen sur le besoin de références (artistiques, musicales, littéraires, graphiques...) pour la construction d'une réflexion, j'entame, à leur intention, cette histoire sommaire et subjective. Ce site est amendable par tous sur github.
+  Suite à une discussion avec des élèves en seconde année de mastère à l'ESAG Penninghen sur le besoin de références (artistiques, musicales, littéraires, graphiques...) pour la construction d'une réflexion, j'entame, à leur intention, cette histoire sommaire et subjective. Ce site est amendable par tous sur GitHub.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://histoire-sommaire-et-subjective.github.io"
 github_username: histoire-sommaire-et-subjective
