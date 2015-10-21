@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Duchamp accouche d'un hérisson en 1914"
+title:  "1914 — Le hérisson de Duchamp"
 date:   2015-10-20
 categories: article
 ---

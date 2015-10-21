@@ -2,16 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Histoire sommaire et subjective d&#39;un monde contemporain en 300 pixels de large</title>
-    <description>Suite à une discussion avec des élèves de seconde année de mastère de l&#39;ESAG Penninghen sur le besoin de références (artistiques, musicales, littéraires, graphiques...) pour la construction d&#39;une réflexion, j&#39;entame cette &quot;petite histoire&quot; à leur intention.
+    <description>Suite à une discussion avec des élèves en seconde année de mastère à l&#39;ESAG Penninghen sur le besoin de références (artistiques, musicales, littéraires, graphiques...) pour la construction d&#39;une réflexion, j&#39;entame, à leur intention, cette histoire sommaire et subjective. Ce site est amendable par tous sur github.
 </description>
-    <link>http://histoire-sommaire-et-subjective-d-un-monde-contemporain/</link>
-    <atom:link href="http://histoire-sommaire-et-subjective-d-un-monde-contemporain/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Oct 2015 12:53:15 +0200</pubDate>
-    <lastBuildDate>Wed, 21 Oct 2015 12:53:15 +0200</lastBuildDate>
+    <link>http://histoire-sommaire-et-subjective.github.io/</link>
+    <atom:link href="http://histoire-sommaire-et-subjective.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 21 Oct 2015 18:45:22 +0200</pubDate>
+    <lastBuildDate>Wed, 21 Oct 2015 18:45:22 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Duchamp accouche d&#39;un hérisson en 1914</title>
+        <title>1962 — La jetée de Chris Marker</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/fichiers/marker_la_jetee_1962.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;La Jetée&lt;/em&gt; est un film de Chris Marker. Un diaporama de 28 minutes de photographies en noir et blanc, un chef-d’œuvre de science-fiction à voir par tout scénariste en herbe (ou graphiste, ou réalisateur, ou photographe… ).&lt;/p&gt;
+
+&lt;p&gt;A voir sur YouTube (avec des sous-titres en espagnol !) : &lt;a href=&quot;https://www.youtube.com/watch?v=zKW8kLGJYXg&quot;&gt;https://www.youtube.com/watch?v=zKW8kLGJYXg&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 21 Oct 2015 00:00:00 +0200</pubDate>
+        <link>http://histoire-sommaire-et-subjective.github.io/article/2015/10/21/1962-la-jetee-de-chris-marker.html</link>
+        <guid isPermaLink="true">http://histoire-sommaire-et-subjective.github.io/article/2015/10/21/1962-la-jetee-de-chris-marker.html</guid>
+        
+        
+        <category>article</category>
+        
+      </item>
+    
+      <item>
+        <title>1914 — Le hérisson de Duchamp</title>
         <description>&lt;p&gt;&lt;img src=&quot;/fichiers/duchamp_porte_bouteilles_1914.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;En achetant un objet industriel et en l’offrant signé au monde de l’art, Marcel Duchamp redonne à l’artiste sa liberté d’action et au regardeur son pouvoir d’interprétation. Ce ready-made annonce l’art contemporain.&lt;/p&gt;
@@ -19,8 +36,8 @@
 &lt;p&gt;→ Lire le dossier pédagogique de Pompidou sur le &lt;a href=&quot;http://mediation.centrepompidou.fr/education/ressources/ENS-dada/ENS-dada.htm&quot;&gt;mouvement Dada&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 20 Oct 2015 00:00:00 +0200</pubDate>
-        <link>http://histoire-sommaire-et-subjective-d-un-monde-contemporain/article/2015/10/20/le-herisson-de-duchamp-en-1914.html</link>
-        <guid isPermaLink="true">http://histoire-sommaire-et-subjective-d-un-monde-contemporain/article/2015/10/20/le-herisson-de-duchamp-en-1914.html</guid>
+        <link>http://histoire-sommaire-et-subjective.github.io/article/2015/10/20/1914-le-herisson-de-duchamp.html</link>
+        <guid isPermaLink="true">http://histoire-sommaire-et-subjective.github.io/article/2015/10/20/1914-le-herisson-de-duchamp.html</guid>
         
         
         <category>article</category>
@@ -34,8 +51,8 @@
 &lt;p&gt;&lt;em&gt;&lt;a href=&quot;/fichiers/broodthaers_un_coup_de_des_1969.pdf&quot;&gt;Un coup de dés jamais n’abolira le hasard&lt;/a&gt;&lt;/em&gt; est aussi le titre d’une œuvre de Marcel Broodthaers, reproduction de l’œuvre de Mallarmé où chaque mot est soigneusement recouvert d’encre — projet iconoclaste d’une œuvre iconoclaste.&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 Oct 2015 00:00:00 +0200</pubDate>
-        <link>http://histoire-sommaire-et-subjective-d-un-monde-contemporain/article/2015/10/19/1897-le-coup-de-des-de-mallarme.html</link>
-        <guid isPermaLink="true">http://histoire-sommaire-et-subjective-d-un-monde-contemporain/article/2015/10/19/1897-le-coup-de-des-de-mallarme.html</guid>
+        <link>http://histoire-sommaire-et-subjective.github.io/article/2015/10/19/1897-le-coup-de-des-de-mallarme.html</link>
+        <guid isPermaLink="true">http://histoire-sommaire-et-subjective.github.io/article/2015/10/19/1897-le-coup-de-des-de-mallarme.html</guid>
         
         
         <category>article</category>
