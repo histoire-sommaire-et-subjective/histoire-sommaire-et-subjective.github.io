@@ -3,8 +3,10 @@
 *{margin: 0; padding: 0;}
 
 body{max-width: 300px; margin: 20px auto; font-size: 16px; line-height: 24px; font-family: 'Work Sans', sans-serif; word-spacing: -1px;}
-a{text-decoration: none;}
+a{text-decoration: none; color: blue;}
 a:hover{text-decoration: underline;}
+a:visited{color: blue;}
+
 sup{font-size: 0.6rem; line-height: 0.6rem;}
 
 h1, h2, h3, p, ul {margin-bottom: 10px;}
