@@ -9,4 +9,4 @@ La TAZ (Temporary Autonomous Zone), ou Zone Autonome Temporaire, ne se définit 
 
 Un auteur qui précise au début d'édition que l'ouvrage "May be freely pirated & quoted — the author & publisher, however, would like to be informed...", ne peut pas être mauvais.
 
-La [version anglaise](http://hermetic.com/bey/taz3.html#labelTAZ) est disponible gratuite et en ligne sur _The Hermetic Library_ et la [version française](http://www.lyber-eclat.net/lyber/taz.html) toujours gratuite et en ligne est disponible sur le site des Éditions de l'éclat.
+La [version anglaise](http://hermetic.com/bey/taz3.html#labelTAZ) est disponible gratuite et en ligne sur _The Hermetic Library_. La [version française](http://www.lyber-eclat.net/lyber/taz.html) toujours gratuite et en ligne est disponible sur le site des Éditions de l'éclat.
